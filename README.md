@@ -9,6 +9,7 @@ Currently these tests are not passing.
 ## Log
 
 1. Start with claude.ai session https://claude.ai/public/artifacts/2793c32b-b8c3-499e-8b44-27f1190fcee8
+   1. Used prompt: Using pytest write some code that demostrates the examples in https://panoradio-sdr.de/tdoa-transmitter-localization-with-rtl-sdrs/
 
 ## Setup and running
 
@@ -27,3 +28,5 @@ Currently these tests are not passing.
 ### Running the tests 
 
 1. `pytest tdoa_tests.py`
+
+
